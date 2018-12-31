@@ -5,3 +5,10 @@ C:\Users\vanya\OneDrive\Рабочий стол\Vlada_Sharp\Vlada_Sharp\obj\Debu
 C:\Users\vanya\OneDrive\Рабочий стол\Vlada_Sharp\Vlada_Sharp\obj\Debug\Vlada_Sharp.csproj.CoreCompileInputs.cache
 C:\Users\vanya\OneDrive\Рабочий стол\Vlada_Sharp\Vlada_Sharp\obj\Debug\Vlada_Sharp.exe
 C:\Users\vanya\OneDrive\Рабочий стол\Vlada_Sharp\Vlada_Sharp\obj\Debug\Vlada_Sharp.pdb
+E:\Навчання\2 курс\ООП\LastLab\For-Vlada-With-Love\Vlada_Sharp\bin\Debug\Vlada_Sharp.exe.config
+E:\Навчання\2 курс\ООП\LastLab\For-Vlada-With-Love\Vlada_Sharp\bin\Debug\Vlada_Sharp.exe
+E:\Навчання\2 курс\ООП\LastLab\For-Vlada-With-Love\Vlada_Sharp\bin\Debug\Vlada_Sharp.pdb
+E:\Навчання\2 курс\ООП\LastLab\For-Vlada-With-Love\Vlada_Sharp\obj\Debug\Vlada_Sharp.csprojAssemblyReference.cache
+E:\Навчання\2 курс\ООП\LastLab\For-Vlada-With-Love\Vlada_Sharp\obj\Debug\Vlada_Sharp.csproj.CoreCompileInputs.cache
+E:\Навчання\2 курс\ООП\LastLab\For-Vlada-With-Love\Vlada_Sharp\obj\Debug\Vlada_Sharp.exe
+E:\Навчання\2 курс\ООП\LastLab\For-Vlada-With-Love\Vlada_Sharp\obj\Debug\Vlada_Sharp.pdb

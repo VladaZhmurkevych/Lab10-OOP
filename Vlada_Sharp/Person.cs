@@ -45,5 +45,28 @@ namespace Vlada_Sharp
             Surname = surname;
             _bornDate = bornDate;
         }
+        public override bool Equals(object obj)
+        {
+            Person p = obj as Person;
+            if (!(p is null))
+            {
+                if (this.Name == p.Name &&
+                    this.Surname == p.Surname &&
+                    this._bornDate == p._bornDate)
+                {
+                    return true;
+                }
+                else return false;
+            }
+            return false;
+        }
+        public static bool operator !=(Person p1, Person p2)
+        {
+            return !p1.Equals(p2);
+        }
+        public static bool operator ==(Person p1, Person p2)
+        {
+            return p1.Equals(p2);
+        }
     }
 }
